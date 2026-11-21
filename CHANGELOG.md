@@ -2,6 +2,8 @@
 
 ## 2026-11-21
 
+- Publish rust_realease on GitHub and add it to the organisation profile and shared
+  support links.
 - Rename PDF Presenter to Deckstride throughout the organisation profile, project
   links, support guidance, and artwork provenance.
 - Update the Deckstride repository description and discovery topics while preserving

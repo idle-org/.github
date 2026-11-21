@@ -13,6 +13,7 @@
 | <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/canvas-pilot.png" width="64" height="64" alt="Canvas Pilot icon"> | **[Canvas Pilot](https://github.com/idle-org/canvas-pilot)** | Compose screen layouts for presentations and live events. Arrange and crop layers, exchange layouts with drawing tools, and send geometry to supported Analog Way switchers. |
 | <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/deckstride.png" width="64" height="64" alt="Deckstride icon"> | **[Deckstride](https://github.com/idle-org/Deckstride)** | Present PDFs and picture folders across multiple displays with private notes, previews, timers, and independent presenter and audience views. |
 | <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/tiny-wb.png" width="64" height="64" alt="tiny-wb icon"> | **[tiny-wb](https://github.com/idle-org/tiny-wb)** | Scan with a tinySA, explore the spectrum in your terminal, and save measurements as CSV. |
+| 🦀 | **[rust_realease](https://github.com/idle-org/rust_realease)** | Cross-compile Rust command-line tools, build portable packages and checksums, and publish verified releases ready for cargo-binstall. |
 
 ### Get started
 
@@ -20,7 +21,7 @@ Open a project above for its README, setup instructions, and documentation. Publ
 
 ### Open source, openly developed
 
-All three projects are open source under the MIT license. Their development includes
+All four projects are open source under the MIT license. Their development includes
 LLM-generated or LLM-assisted work, with human review. They are used in professional
 settings; each repository documents its supported workflows and current limitations.
 
