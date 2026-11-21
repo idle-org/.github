@@ -10,13 +10,25 @@ This repository contains Idle's public organisation profile, original fox artwor
 
 Project source belongs in the individual repositories. This repository is maintained independently of project source mirrors.
 
-## The projects
+## Presentations and live events
 
-| [Canvas Pilot](https://github.com/idle-org/canvas-pilot) | [Deckstride](https://github.com/idle-org/Deckstride) | [tiny-wb](https://github.com/idle-org/tiny-wb) | [rust_realease](https://github.com/idle-org/rust_realease) |
-| :---: | :---: | :---: | :---: |
-| <img src="profile/assets/canvas-pilot.png" width="96" height="96" alt="Canvas Pilot icon"> | <img src="profile/assets/deckstride.png" width="96" height="96" alt="Deckstride icon"> | <img src="profile/assets/tiny-wb.png" width="96" height="96" alt="tiny-wb icon"> | 🦀 |
+| [Canvas Pilot](https://github.com/idle-org/canvas-pilot) | [Deckstride](https://github.com/idle-org/Deckstride) | [PPTX Reporter](https://github.com/idle-org/pptx-reporter) |
+| :---: | :---: | :---: |
+| <img src="profile/assets/canvas-pilot.png" width="96" height="96" alt="Canvas Pilot icon"> | <img src="profile/assets/deckstride.png" width="96" height="96" alt="Deckstride icon"> | <img src="profile/assets/pptx-reporter.png" width="96" height="96" alt="PPTX Reporter icon"> |
 
-All four projects are MIT-licensed open-source software, developed with LLM-generated
+## Sound and signal tools
+
+| [tiny-wb](https://github.com/idle-org/tiny-wb) |
+| :---: |
+| <img src="profile/assets/tiny-wb.png" width="96" height="96" alt="tiny-wb icon"> |
+
+## Tools for software makers
+
+| [rust_realease](https://github.com/idle-org/rust_realease) |
+| :---: |
+| <img src="profile/assets/rust_realease.png" width="96" height="96" alt="rust_realease icon"> |
+
+All five projects are MIT-licensed open-source software, developed with LLM-generated
 or LLM-assisted work and human review. They are used in professional settings.
 See each project for its documented workflows and limitations.
 

@@ -5,9 +5,13 @@
 - `idle.png`: the original Idle organisation logo supplied through the maintainer's Gitea organisation.
 - `canvas-pilot.png`: unchanged `crates/canvas-pilot/assets/app-icon.png` from Canvas Pilot.
 - `deckstride.png`: unchanged `crates/deckstride/assets/app-icon.png` from Deckstride.
+- `pptx-reporter.png`: unchanged `crates/pptx-reporter/assets/app-icon.png` from PPTX Reporter.
 - `tiny-wb.png`: unchanged existing tiny-wb repository avatar, also added to that project's `docs/images/project-icon.png`.
+- `rust_realease.png`: unchanged Rust release artwork supplied by the maintainer
+  from the local Git projects folder.
 
-The existing artwork was reused on 2026-11-20. This does not introduce a new license for project branding.
+The project artwork is reused from the sources noted above. This does not
+introduce a new license for project branding.
 
 ## Generated fox
 

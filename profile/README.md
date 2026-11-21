@@ -2,18 +2,37 @@
   <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/idle.png" alt="Idle — a curled orange fox" width="180">
 </p>
 
-<h1 align="center">Practical tools for screens, shows, and signals.</h1>
+<h1 align="center">Practical tools for shows, signals, and software.</h1>
 
-<p align="center">Independent software for audiovisual work.<br>Small, focused projects for preparing a show, presenting ideas, and exploring the spectrum.</p>
+<p align="center">Independent, focused software for live work and the people who build the tools behind it.</p>
 
-### Find your tool
+### Presentations and live events
+
+Tools for preparing material, running screens, and keeping track of media during
+a presentation or show.
 
 | | Project | What it does |
 | :---: | :--- | :--- |
 | <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/canvas-pilot.png" width="64" height="64" alt="Canvas Pilot icon"> | **[Canvas Pilot](https://github.com/idle-org/canvas-pilot)** | Compose screen layouts for presentations and live events. Arrange and crop layers, exchange layouts with drawing tools, and send geometry to supported Analog Way switchers. |
 | <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/deckstride.png" width="64" height="64" alt="Deckstride icon"> | **[Deckstride](https://github.com/idle-org/Deckstride)** | Present PDFs and picture folders across multiple displays with private notes, previews, timers, and independent presenter and audience views. |
-| <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/tiny-wb.png" width="64" height="64" alt="tiny-wb icon"> | **[tiny-wb](https://github.com/idle-org/tiny-wb)** | Scan with a tinySA, explore the spectrum in your terminal, and save measurements as CSV. |
-| 🦀 | **[rust_realease](https://github.com/idle-org/rust_realease)** | Cross-compile Rust command-line tools, build portable packages and checksums, and publish verified releases ready for cargo-binstall. |
+| <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/pptx-reporter.png" width="64" height="64" alt="PPTX Reporter icon"> | **[PPTX Reporter](https://github.com/idle-org/pptx-reporter)** | Find the videos in PowerPoint files, calculate their playing times, and create clear PDF, web, text, or Ontime reports. |
+
+### Sound and signal tools
+
+Tools for checking the wireless and radio signals around audio, communications,
+and other technical equipment.
+
+| | Project | What it does |
+| :---: | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/tiny-wb.png" width="64" height="64" alt="tiny-wb icon"> | **[tiny-wb](https://github.com/idle-org/tiny-wb)** | Use a tinySA scanner to see nearby signals, explore the spectrum, and save measurements for later. |
+
+### Tools for software makers
+
+Tools that help people build and distribute their own applications.
+
+| | Project | What it does |
+| :---: | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/idle-org/.github/main/profile/assets/rust_realease.png" width="64" height="64" alt="rust_realease icon"> | **[rust_realease](https://github.com/idle-org/rust_realease)** | Build a Rust program for several operating systems, package it for download, verify it, and publish a release in one process. |
 
 ### Get started
 
@@ -21,7 +40,7 @@ Open a project above for its README, setup instructions, and documentation. Publ
 
 ### Open source, openly developed
 
-All four projects are open source under the MIT license. Their development includes
+All five projects are open source under the MIT license. Their development includes
 LLM-generated or LLM-assisted work, with human review. They are used in professional
 settings; each repository documents its supported workflows and current limitations.
 

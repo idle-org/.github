@@ -2,6 +2,10 @@
 
 ## 2026-11-21
 
+- Organise the public project list into plain-language categories for presentations
+  and events, sound and signals, and software makers.
+- Add PPTX Reporter to the organisation profile and shared support links.
+- Replace the rust_realease emoji with its supplied project icon.
 - Publish rust_realease on GitHub and add it to the organisation profile and shared
   support links.
 - Rename PDF Presenter to Deckstride throughout the organisation profile, project
