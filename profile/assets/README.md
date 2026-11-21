@@ -4,7 +4,7 @@
 
 - `idle.png`: the original Idle organisation logo supplied through the maintainer's Gitea organisation.
 - `canvas-pilot.png`: unchanged `crates/canvas-pilot/assets/app-icon.png` from Canvas Pilot.
-- `pdf-presenter.png`: unchanged `crates/pdf-presenter/assets/app-icon.png` from PDF Presenter.
+- `deckstride.png`: unchanged `crates/deckstride/assets/app-icon.png` from Deckstride.
 - `tiny-wb.png`: unchanged existing tiny-wb repository avatar, also added to that project's `docs/images/project-icon.png`.
 
 The existing artwork was reused on 2026-11-20. This does not introduce a new license for project branding.

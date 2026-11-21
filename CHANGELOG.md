@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-21
+
+- Rename PDF Presenter to Deckstride throughout the organisation profile, project
+  links, support guidance, and artwork provenance.
+- Update the Deckstride repository description and discovery topics while preserving
+  its existing releases and Git tags.
+
 ## 2026-11-20
 
 - Add a fox-themed share card with a verified QR code to the organisation page,

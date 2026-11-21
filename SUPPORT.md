@@ -3,7 +3,7 @@
 Use the Issues tab in the relevant GitHub repository:
 
 - [Canvas Pilot](https://github.com/idle-org/canvas-pilot/issues)
-- [PDF Presenter](https://github.com/idle-org/pdf-presenter/issues)
+- [Deckstride](https://github.com/idle-org/Deckstride/issues)
 - [tiny-wb](https://github.com/idle-org/tiny-wb/issues)
 
 Search existing issues first. For a problem, include the application version, operating system, steps to reproduce it, and what you expected to happen. Mention connected hardware when relevant.
